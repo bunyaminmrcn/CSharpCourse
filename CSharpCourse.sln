@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditionals", "Conditional
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{DF4BC596-BFAC-4FB9-B9A7-07E55F5C6A5C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{6C220DAA-9A9B-4FB9-8FEE-52D058D0786B}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -58,5 +60,17 @@ Global
 		{DF4BC596-BFAC-4FB9-B9A7-07E55F5C6A5C}.Release|x64.Build.0 = Release|Any CPU
 		{DF4BC596-BFAC-4FB9-B9A7-07E55F5C6A5C}.Release|x86.ActiveCfg = Release|Any CPU
 		{DF4BC596-BFAC-4FB9-B9A7-07E55F5C6A5C}.Release|x86.Build.0 = Release|Any CPU
+		{6C220DAA-9A9B-4FB9-8FEE-52D058D0786B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C220DAA-9A9B-4FB9-8FEE-52D058D0786B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C220DAA-9A9B-4FB9-8FEE-52D058D0786B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6C220DAA-9A9B-4FB9-8FEE-52D058D0786B}.Debug|x64.Build.0 = Debug|Any CPU
+		{6C220DAA-9A9B-4FB9-8FEE-52D058D0786B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6C220DAA-9A9B-4FB9-8FEE-52D058D0786B}.Debug|x86.Build.0 = Debug|Any CPU
+		{6C220DAA-9A9B-4FB9-8FEE-52D058D0786B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C220DAA-9A9B-4FB9-8FEE-52D058D0786B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C220DAA-9A9B-4FB9-8FEE-52D058D0786B}.Release|x64.ActiveCfg = Release|Any CPU
+		{6C220DAA-9A9B-4FB9-8FEE-52D058D0786B}.Release|x64.Build.0 = Release|Any CPU
+		{6C220DAA-9A9B-4FB9-8FEE-52D058D0786B}.Release|x86.ActiveCfg = Release|Any CPU
+		{6C220DAA-9A9B-4FB9-8FEE-52D058D0786B}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
