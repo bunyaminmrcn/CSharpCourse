@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{EBEC331F-9FD5-420B-8E5D-752063FB2038}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "Strings\Strings.csproj", "{F9CA09D8-D787-4403-9099-12606B6A5EE8}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -86,5 +88,17 @@ Global
 		{EBEC331F-9FD5-420B-8E5D-752063FB2038}.Release|x64.Build.0 = Release|Any CPU
 		{EBEC331F-9FD5-420B-8E5D-752063FB2038}.Release|x86.ActiveCfg = Release|Any CPU
 		{EBEC331F-9FD5-420B-8E5D-752063FB2038}.Release|x86.Build.0 = Release|Any CPU
+		{F9CA09D8-D787-4403-9099-12606B6A5EE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9CA09D8-D787-4403-9099-12606B6A5EE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9CA09D8-D787-4403-9099-12606B6A5EE8}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F9CA09D8-D787-4403-9099-12606B6A5EE8}.Debug|x64.Build.0 = Debug|Any CPU
+		{F9CA09D8-D787-4403-9099-12606B6A5EE8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F9CA09D8-D787-4403-9099-12606B6A5EE8}.Debug|x86.Build.0 = Debug|Any CPU
+		{F9CA09D8-D787-4403-9099-12606B6A5EE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9CA09D8-D787-4403-9099-12606B6A5EE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9CA09D8-D787-4403-9099-12606B6A5EE8}.Release|x64.ActiveCfg = Release|Any CPU
+		{F9CA09D8-D787-4403-9099-12606B6A5EE8}.Release|x64.Build.0 = Release|Any CPU
+		{F9CA09D8-D787-4403-9099-12606B6A5EE8}.Release|x86.ActiveCfg = Release|Any CPU
+		{F9CA09D8-D787-4403-9099-12606B6A5EE8}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
