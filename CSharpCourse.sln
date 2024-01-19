@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiersDemo", "Acce
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{3213EA4C-4B24-4A01-8930-11DBB4AE27F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceAndValueType", "ReferenceAndValueType\ReferenceAndValueType.csproj", "{2D2A0EB9-FB81-43EF-B2C3-C7BA196B2D6F}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -240,5 +242,17 @@ Global
 		{3213EA4C-4B24-4A01-8930-11DBB4AE27F6}.Release|x64.Build.0 = Release|Any CPU
 		{3213EA4C-4B24-4A01-8930-11DBB4AE27F6}.Release|x86.ActiveCfg = Release|Any CPU
 		{3213EA4C-4B24-4A01-8930-11DBB4AE27F6}.Release|x86.Build.0 = Release|Any CPU
+		{2D2A0EB9-FB81-43EF-B2C3-C7BA196B2D6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D2A0EB9-FB81-43EF-B2C3-C7BA196B2D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D2A0EB9-FB81-43EF-B2C3-C7BA196B2D6F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{2D2A0EB9-FB81-43EF-B2C3-C7BA196B2D6F}.Debug|x64.Build.0 = Debug|Any CPU
+		{2D2A0EB9-FB81-43EF-B2C3-C7BA196B2D6F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2D2A0EB9-FB81-43EF-B2C3-C7BA196B2D6F}.Debug|x86.Build.0 = Debug|Any CPU
+		{2D2A0EB9-FB81-43EF-B2C3-C7BA196B2D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D2A0EB9-FB81-43EF-B2C3-C7BA196B2D6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D2A0EB9-FB81-43EF-B2C3-C7BA196B2D6F}.Release|x64.ActiveCfg = Release|Any CPU
+		{2D2A0EB9-FB81-43EF-B2C3-C7BA196B2D6F}.Release|x64.Build.0 = Release|Any CPU
+		{2D2A0EB9-FB81-43EF-B2C3-C7BA196B2D6F}.Release|x86.ActiveCfg = Release|Any CPU
+		{2D2A0EB9-FB81-43EF-B2C3-C7BA196B2D6F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
