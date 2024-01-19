@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiers", "AccessMo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiersDemo", "AccessModifiersDemo\AccessModifiersDemo.csproj", "{EBCE1C88-1D9F-4295-B452-CE385655C2DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{3213EA4C-4B24-4A01-8930-11DBB4AE27F6}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -226,5 +228,17 @@ Global
 		{EBCE1C88-1D9F-4295-B452-CE385655C2DC}.Release|x64.Build.0 = Release|Any CPU
 		{EBCE1C88-1D9F-4295-B452-CE385655C2DC}.Release|x86.ActiveCfg = Release|Any CPU
 		{EBCE1C88-1D9F-4295-B452-CE385655C2DC}.Release|x86.Build.0 = Release|Any CPU
+		{3213EA4C-4B24-4A01-8930-11DBB4AE27F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3213EA4C-4B24-4A01-8930-11DBB4AE27F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3213EA4C-4B24-4A01-8930-11DBB4AE27F6}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3213EA4C-4B24-4A01-8930-11DBB4AE27F6}.Debug|x64.Build.0 = Debug|Any CPU
+		{3213EA4C-4B24-4A01-8930-11DBB4AE27F6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3213EA4C-4B24-4A01-8930-11DBB4AE27F6}.Debug|x86.Build.0 = Debug|Any CPU
+		{3213EA4C-4B24-4A01-8930-11DBB4AE27F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3213EA4C-4B24-4A01-8930-11DBB4AE27F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3213EA4C-4B24-4A01-8930-11DBB4AE27F6}.Release|x64.ActiveCfg = Release|Any CPU
+		{3213EA4C-4B24-4A01-8930-11DBB4AE27F6}.Release|x64.Build.0 = Release|Any CPU
+		{3213EA4C-4B24-4A01-8930-11DBB4AE27F6}.Release|x86.ActiveCfg = Release|Any CPU
+		{3213EA4C-4B24-4A01-8930-11DBB4AE27F6}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
