@@ -3,48 +3,47 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypesAndVariables", "TypesAndVariables\TypesAndVariables.csproj", "{2E65B01A-DFBB-4422-9ED1-F509DFCD18F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TypesAndVariables", "TypesAndVariables\TypesAndVariables.csproj", "{2E65B01A-DFBB-4422-9ED1-F509DFCD18F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditionals", "Conditionals\Conditionals.csproj", "{053449E6-9AEC-4CB2-B47E-56DB4CE50D80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conditionals", "Conditionals\Conditionals.csproj", "{053449E6-9AEC-4CB2-B47E-56DB4CE50D80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{DF4BC596-BFAC-4FB9-B9A7-07E55F5C6A5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.csproj", "{DF4BC596-BFAC-4FB9-B9A7-07E55F5C6A5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{6C220DAA-9A9B-4FB9-8FEE-52D058D0786B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csproj", "{6C220DAA-9A9B-4FB9-8FEE-52D058D0786B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{EBEC331F-9FD5-420B-8E5D-752063FB2038}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops", "Loops\Loops.csproj", "{EBEC331F-9FD5-420B-8E5D-752063FB2038}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "Strings\Strings.csproj", "{F9CA09D8-D787-4403-9099-12606B6A5EE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strings", "Strings\Strings.csproj", "{F9CA09D8-D787-4403-9099-12606B6A5EE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{038C52C1-E105-4AB0-8917-8613984A25E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes", "Classes\Classes.csproj", "{038C52C1-E105-4AB0-8917-8613984A25E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{AAA6239E-382D-4BD3-A4A5-84C8B35647A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{AAA6239E-382D-4BD3-A4A5-84C8B35647A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesDemo", "InterfacesDemo\InterfacesDemo.csproj", "{1F6A398E-9A71-45BC-A2BF-459890CFACC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfacesDemo", "InterfacesDemo\InterfacesDemo.csproj", "{1F6A398E-9A71-45BC-A2BF-459890CFACC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{CCDEAE1A-A090-46FD-BC3B-9E2E6021DEC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\Inheritance.csproj", "{CCDEAE1A-A090-46FD-BC3B-9E2E6021DEC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualMethods", "VirtualMethods\VirtualMethods.csproj", "{011DD6FA-CB5C-4DB5-B3D4-94DE74F4AF15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualMethods", "VirtualMethods\VirtualMethods.csproj", "{011DD6FA-CB5C-4DB5-B3D4-94DE74F4AF15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClasses", "AbstractClasses\AbstractClasses.csproj", "{9EA9AAAB-8608-40E9-8ED9-389A926F523B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractClasses", "AbstractClasses\AbstractClasses.csproj", "{9EA9AAAB-8608-40E9-8ED9-389A926F523B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecapDemo2", "RecapDemo2\RecapDemo2.csproj", "{F0E43965-4EAF-4AC3-95FD-125FFC23B46C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecapDemo2", "RecapDemo2\RecapDemo2.csproj", "{F0E43965-4EAF-4AC3-95FD-125FFC23B46C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiers", "AccessModifiers\AccessModifiers.csproj", "{895386BF-7ED5-4B91-84B1-54800081DB99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccessModifiers", "AccessModifiers\AccessModifiers.csproj", "{895386BF-7ED5-4B91-84B1-54800081DB99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiersDemo", "AccessModifiersDemo\AccessModifiersDemo.csproj", "{EBCE1C88-1D9F-4295-B452-CE385655C2DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccessModifiersDemo", "AccessModifiersDemo\AccessModifiersDemo.csproj", "{EBCE1C88-1D9F-4295-B452-CE385655C2DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{3213EA4C-4B24-4A01-8930-11DBB4AE27F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructors", "Constructors\Constructors.csproj", "{3213EA4C-4B24-4A01-8930-11DBB4AE27F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceAndValueType", "ReferenceAndValueType\ReferenceAndValueType.csproj", "{2D2A0EB9-FB81-43EF-B2C3-C7BA196B2D6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReferenceAndValueType", "ReferenceAndValueType\ReferenceAndValueType.csproj", "{2D2A0EB9-FB81-43EF-B2C3-C7BA196B2D6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{F7B10CAE-2E2C-4CE1-811D-BF2E59D04008}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\Collections.csproj", "{F7B10CAE-2E2C-4CE1-811D-BF2E59D04008}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "Exceptions\Exceptions.csproj", "{D3C45FE6-E54D-4DE5-857D-ED13EB65F18D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exceptions", "Exceptions\Exceptions.csproj", "{D3C45FE6-E54D-4DE5-857D-ED13EB65F18D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdoNetDemo", "AdoNetDemo\AdoNetDemo.csproj", "{D3263462-C29B-4C15-A8CC-F907435FE858}"
 EndProject
 Global
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Debug|x64 = Debug|x64
@@ -282,5 +281,23 @@ Global
 		{D3C45FE6-E54D-4DE5-857D-ED13EB65F18D}.Release|x64.Build.0 = Release|Any CPU
 		{D3C45FE6-E54D-4DE5-857D-ED13EB65F18D}.Release|x86.ActiveCfg = Release|Any CPU
 		{D3C45FE6-E54D-4DE5-857D-ED13EB65F18D}.Release|x86.Build.0 = Release|Any CPU
+		{D3263462-C29B-4C15-A8CC-F907435FE858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3263462-C29B-4C15-A8CC-F907435FE858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3263462-C29B-4C15-A8CC-F907435FE858}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D3263462-C29B-4C15-A8CC-F907435FE858}.Debug|x64.Build.0 = Debug|Any CPU
+		{D3263462-C29B-4C15-A8CC-F907435FE858}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D3263462-C29B-4C15-A8CC-F907435FE858}.Debug|x86.Build.0 = Debug|Any CPU
+		{D3263462-C29B-4C15-A8CC-F907435FE858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3263462-C29B-4C15-A8CC-F907435FE858}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3263462-C29B-4C15-A8CC-F907435FE858}.Release|x64.ActiveCfg = Release|Any CPU
+		{D3263462-C29B-4C15-A8CC-F907435FE858}.Release|x64.Build.0 = Release|Any CPU
+		{D3263462-C29B-4C15-A8CC-F907435FE858}.Release|x86.ActiveCfg = Release|Any CPU
+		{D3263462-C29B-4C15-A8CC-F907435FE858}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5279DF8-7521-45BB-A5C8-72F3AE559A4C}
 	EndGlobalSection
 EndGlobal
